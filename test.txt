@@ -15,3 +15,5 @@ T v ( F -> F ) ^ T
 ~ F
 ~ T v F
 ~ ( T v F )
+~ F ^ T
+~ ( T v F ) -> ( F ^ T ) v T v ( F -> F ) ^ T
