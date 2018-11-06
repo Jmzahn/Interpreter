@@ -1,1 +1,17 @@
 T v F
+T ^ F
+( T v F )
+T -> F
+T -> T
+F -> T
+T ^ T
+F v F -> F
+F v T ^ T
+T -> F ^ T
+T -> F v F
+( T v F ) -> ( F ^ T )
+T v ( F -> F ) ^ T
+~ T
+~ F
+~ T v F
+~ ( T v F )
